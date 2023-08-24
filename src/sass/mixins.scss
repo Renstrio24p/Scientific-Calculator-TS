@@ -1,0 +1,13 @@
+
+@mixin Mobile {
+   
+    .calculator {
+        padding: 15px; /* Adjust padding for smaller screens */
+    }
+    
+    .calculator form input[type='text'] {
+        height: 50px; /* Adjust input height for smaller screens */
+        font-size: 24px; /* Adjust font size for smaller screens */
+    }
+      
+}
