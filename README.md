@@ -1,4 +1,4 @@
-## Basic Calculator in Typescript
+## Scientific Calculator in Typescript - Work in Progress
 
 
 ## Pure Vanilla Typescript ECMAScript 10
